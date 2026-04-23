@@ -1,2 +1,78 @@
-# Analysis-of-NETFLIX-dataset
-Data analysis of Netflix Movies &amp; TV Shows using Tableau
+# DASHBOARD
+
+[Go to my Dashboard](https://public.tableau.com/app/profile/bat.man6773/viz/AnalysisofNETFLIXdataset/Netflix)
+
+![Netflix](https://user-images.githubusercontent.com/124501309/218270123-35907b8d-1ca2-4a7a-8087-5999b55c31f1.png)
+
+
+## METHODOLOGY
+
+
+The goal of this project is to practice creating and interpreting different types of visualizations using real world data. I create a minimum of two histogram, two pie chart and one bar graph with matplotlib, seaborn and worldcloud.
+
+### Vertical Bar Graph of Rating & Horizontal Bar Graph of Top 10 Gerne.
+
+![Netflix1](https://user-images.githubusercontent.com/124501309/218270328-913ef05d-c6dc-478c-93ef-cc1dacdc1751.jpg)
+
+
+
+### Country wise Map of Total Movies and TV shows by Country & line Area Graph of Total Movies and TV shows by Year.
+
+![Netflix2](https://user-images.githubusercontent.com/124501309/218270348-03ad03b0-c9aa-4b19-a3fe-afe13298e67a.jpg)
+
+
+
+## ANALYSIS OF DASHBOARD
+
+The dashboard shows:
+
+1) The User can search the movies,Tv show and he/she will get rating, duration, genre, release date, added date and Description about it.
+2) The Dashboard will provide interactive interface of list according to user choice of genre.
+3) The Dashboard will show total number of movies and Tv shows released each year. 
+4) The Dashboard will top 10 genre and pie chart of sum up of movies and Tv shos released each year.
+
+
+
+## TECHNOLOGIES USED
+
+    •	pgSQL
+
+    •	Tableau
+
+    •	Statistics
+    
+## STEPS
+
+    i) Data subset collected from online.
+    ii) Loading Libraries
+    iii) Data Cleaning & Finding Missing values
+    iv) Data Visualization
+    
+## DATA VISUALIZATION
+
+    1) Select options for Type: Movies & Tv Shows
+    
+    2) Vertical Bar Graph of Rating of Shows & Movies
+    
+    3) Horizontal Bar Graph of Relation Between Top 10 Gerne and Movie & TV Shows count
+    
+    4) Pie-chart for the Type: Movie and TV Shows
+    
+    5) line Area Graph of Total Movies and TV shows by Year
+    
+    6) Country wise Map of Total Movies and TV shows by Country
+    
+    7) Showing Wordcloud For Country, Directors,Category, Gerne, Rating
+    
+
+
+
+## ABOUT ME
+
+Hi there! I'm **Ankit Khareshiya**. I’m a student who likes working with data.
+
+Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-khareshiya/) 
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit-Khareshiya)
